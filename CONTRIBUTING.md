@@ -148,6 +148,16 @@ Please see [Katib UI README](../pkg/ui/v1beta1).
 
 Please see [proposals](./proposals).
 
+## Developer Certificate of Origin
+
+Katib requires all commits to include a `Signed-off-by` line to certify that the contributor has the right to submit the work under the project's license. Add the sign-off to each commit with:
+
+```bash
+git commit -s
+```
+
+The sign-off should use the contributor's real name and email address.
+
 ## Code Style
 
 ### pre-commit
